@@ -3,6 +3,6 @@ Android app to calculate BMI. Body mass index (BMI) is measure of body fat based
 
 ## Aplication Layout
 
-<img src="https://github.com/user-cube/BMI_Android_Calculator/blob/master/Screens/Screen1.jpeg?raw=true" alt="Screen1"  width="200" height="350">
-<img src="https://github.com/user-cube/BMI_Android_Calculator/blob/master/Screens/Screen2.jpeg?raw=true" alt="Screen2" width="200" height="350">
-<img src="https://github.com/user-cube/BMI_Android_Calculator/blob/master/Screens/Screen3.jpeg?raw=true" alt="Screen2" width="200" height="350">
+<img src="https://github.com/user-cube/BMI_Android_Calculator/blob/master/Screens/Screen1.jpeg" alt="Screen1"  width="200" height="350">
+<img src="https://github.com/user-cube/BMI_Android_Calculator/blob/master/Screens/Screen2.jpeg" alt="Screen2" width="200" height="350">
+<img src="https://github.com/user-cube/BMI_Android_Calculator/blob/master/Screens/Screen3.jpeg" alt="Screen2" width="200" height="350">
